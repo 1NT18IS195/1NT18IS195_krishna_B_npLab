@@ -92,3 +92,5 @@ void reciver(int data[25],int data_length){
 	}
 	printf("\n");
 }
+![bit_stuffing](https://user-images.githubusercontent.com/83109055/120062366-8209ec00-c07f-11eb-877b-3b97aa7be2f4.png)
+
